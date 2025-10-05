@@ -11,4 +11,4 @@ elif(marks<80 and marks>=70):
 elif(marks<70 and marks>=60):
      print("keep it up: PASS")
 else:
-     print("work hard!!!") 
+     print("work hard!!!")
