@@ -1,0 +1,4 @@
+#WAP TO INPUT USER'S NAME AND PRINT LENGTH
+name=input("ENTER YOUR NAMME")
+print(len(name))
+

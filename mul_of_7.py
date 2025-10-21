@@ -4,3 +4,4 @@ if(num%7==0):
     print("YSS IT IS MULTIPLE OF 7!!!!")
 else:
     print("TRY OTHER NUMBER NOT MULTIPLE OF 7!!!")
+    

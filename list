@@ -1,0 +1,13 @@
+#lists methods
+student = [67, 76, 55,33,11,90,87]
+
+student.sort(reverse=True)
+print(student)
+student.sort()
+print(student)
+student.reverse()
+print(student)
+student.append('prem')
+print(student)
+student.insert(0,'arjun')
+print(student)
