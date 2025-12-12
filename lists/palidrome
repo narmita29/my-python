@@ -1,0 +1,8 @@
+#WAP to check given list is palidrome or not
+list=[]
+list=input("ENTER YOUR LIST ").split()    #to make sting list(splite)
+reverse=list.reverse()
+if(list==reverse):
+    print("it is palidrome")
+else:
+    print("it is not palidrome")
