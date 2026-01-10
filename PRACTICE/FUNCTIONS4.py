@@ -1,5 +1,5 @@
 #WAF to convert USD in INR:
-def convertor(USD_VAL):
+def convertor(USD_VAL): 
     INR=USD_VAL*89
     print('$',USD_VAL,' =',INR,'India Rs.')
 convertor(2)
