@@ -4,5 +4,4 @@ def sum_n(numbers):
         return 0
 
     return sum_n(numbers-1)+numbers
-sum=sum_n(6)
-print(sum)
+print(sum_n(6))
